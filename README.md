@@ -21,17 +21,6 @@ This Python script utilizes the `ctypes` and `pynput` libraries to lock the keyb
 3. The keyboard will be locked immediately.
 4. To unlock, press the spacebar five times quickly.
 
-## Scenarios
-
-### Toddlers
-Imagine you're working from home and your toddler wants to play at your desk. Run this script, and you can let them tap away at the keyboard without worrying about them sending an email to your boss!
-
-### Pets
-Your cat jumps on the desk and starts walking across the keyboard. With this script, Mr. Whiskers can have his fun without sending cryptic messages to your contacts.
-
-### Cleaning
-It's time to clean your keyboard, but you don't want to shut down your computer. This script will let you scrub and wipe without typing nonsense or executing random commands.
-
 ## Disclaimer
 
 This script requires administrative privileges to run effectively. Use it responsibly, and ensure that it's only used in appropriate scenarios.
